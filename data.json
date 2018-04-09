@@ -1,0 +1,12 @@
+{
+  "session": [
+    {
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "email": "admin@gmail.com",
+      "password": "Test.123"
+    }
+  ],
+  "users": [],
+  "actions": []
+}
