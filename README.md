@@ -30,7 +30,7 @@ The form should contain these fields :
 -Phone number (Optional, is a valid phone number)
 -Address (Required)
 -City (Required)
--Postal Code (Requried, is a valid postal code)
+-Postal Code (Requried, is a canadian valid postal code)
 -Country (Required, select with all UN recognized country)
 -Comments (Optional, textarea)
          
