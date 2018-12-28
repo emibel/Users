@@ -1,3 +1,17 @@
+## Running the app
+Steps to run the app.
+
+1 Clone the repo
+
+2 run 'npm install'
+
+3 install 'json server'  ->  https://www.npmjs.com/package/json-server
+
+4 got to the users folder and run 'json-server --watch  data.json'. this will lunch a fake api runnin on localhost:3000
+
+5 go to another terminal and in the users folder run 'npm start'
+
+
 ## Users 
 
 The app bar allow the user to return to the landing page, logout/login or access the administrative interface if logged in.
